@@ -31,5 +31,8 @@ Specific example: How would we write a program that adds two numbers together if
 
 ### Extra resources
 
-- http://cs50.wiki/Variables
-
+http://cs50.wiki/Variables
+* [Returning Multiple Values](https://www.safaribooksonline.com/library/view/python-cookbook-3rd/9781449357337/ch07s04.html)
+* [Learn Python The Hard Way](http://learnpythonthehardway.org/book/ex21.html)
+* [Tutorials Point](http://www.tutorialspoint.com/python/python_functions.htm)
+* [High Order Functions](http://effbot.org/pyfaq/how-do-you-make-a-higher-order-function-in-python.htm)
