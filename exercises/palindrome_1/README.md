@@ -9,21 +9,21 @@ A palindrome is a word OR phrase that can be spelled the same way forwards and b
 * "Kayak"
 * "Racecar"
 
-#### Objective 1
+#### Objective
 
 * Write a function that will take in a string as an input
 * If the string is a palindrome the function will return true
 
-#### Objective 2 
-
-* The function above should ignore punctuation
-
-#### Examples
-
+#### Example
 ```
-pal('love') 
-// False
+[input]
+is_palindrome("jeff")
 
-pal('racecar')
-//True
-```
+[output]
+False
+
+[input]
+is_palindrome("tacocat")
+
+[output]
+True

@@ -7,23 +7,12 @@
 * The function will return the string after removing all the `consecutive` duplicates
 
 ```
+[input]
 string = "aabbccddeded"
-
 my_func(string)
 
-// "abcdeded"
-```
-
-##### Objective 2
-
-* In the same function, instead of returning a string return a list
-* The list should have two values, the first value will be the string without dupes, the second value will be a string with all the dupes
-
-```
-string = "balloons"
-
-my_func(string)
-//["balons", "lo"]
+[output]
+abcdeded
 ```
 
 ##### Resources

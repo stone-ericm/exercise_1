@@ -1,50 +1,25 @@
-# Week 1 Exercises
+# Week 1 Day 1 Exercises
 
-#### Day 1
+#### Description
 
-* For loop 
-	* Iterates forward
-	* Iterates backwards
-	* Takes in a number and iterates to that number from zero
-* Array - Take in an array with various data types
-	* Loop through it and print to the console all the values individually
-* Array of numbers
-	* Write a function that takes in an array of numbers
-	* Return the median number in that array
-	* Return the average of that array
-	* Return the number that occurs the most frequently
-* Array of Words
-	* Title Case
-* Loop through a string
-	* Duplicate Removal
-	* Palindrome 
-* Control Flow and Math
-	* Fibonnacci
-	* FizzBuzz
-	* Sum of Divisors
-* Currency
+The exercises located in this repository are scaffolded and meant to guide your learning experience. These can be completed in any order you choose. My personal recommendation is below. Please make sure to write out the code using the naming syntax that is given at the end of each exercise.
 
-#### Day 2
+#### Order
 
-* Birthday - requires date time library
-* Word Count - requires File I/O
-* Tower of Hanoi
-* Mcnugget Numbers
-
-#### Day 3
-
-* Binary Converter
-* Credit Card Validator
-* Roulette Wheel
-
-#### Day 4
-
-* Roman Numerals
-* Caesar Cipher
-* Foot Traffic
-
-#### Day 5
-
-
-#### Other
-
+* Iteration_with_lists
+* Iteration_with_complicated_lists
+* iteration_with_functions
+* iteration_with_strings
+* FizzBuzz
+* Fibonacci_1
+* fibonacci_2
+* Duplication_1
+* duplication_2
+* Palindrome_1
+* palindrome_2
+* title_case_1
+* title_case_2
+* title_case_3
+* sum_of_divisors
+* sum_of_totatives
+* currency
