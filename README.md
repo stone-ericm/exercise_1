@@ -10,13 +10,14 @@
 * Write python statements using loops and iteration
 
 ---
-### Context 
+### Context
 
 * The fundamentals of programming translate throughout every language
 * Like learning any new language we're going to start with the basics and build up
 * If you wanted to learn english you wouldn't start by reading a novel, but with the alphabet
 
 ---
+
 ### Lesson
 
 #### Part 1 - Variables
@@ -49,13 +50,11 @@ turtles = ["Raph", "Leo", "Mickey", "Donny"]
 			* whole number
 	* Booleans
 		* 0
-		* ""
-		* null
-		* false
+		* False
 
 #### Part 3 - Math Operators and Boolean Operators
 
-* Python comes with the following symbols for mathematical operators. 
+* Python comes with the following symbols for mathematical operators.
 * The language also supports PEMDAS
 * `==`, `!=`, `<=`, `>=`, `<`, `>`
 * Chaining Operators
@@ -71,7 +70,6 @@ turtles = ["Raph", "Leo", "Mickey", "Donny"]
 
 ***Five Min Exercise***
 
-
 ```
 "A" == "A"
 // True or False?
@@ -85,13 +83,14 @@ turtles = ["Raph", "Leo", "Mickey", "Donny"]
 2 == "2"
 // True or False?
 
-Declare three variables and assign them three random numbers. 
+Declare three variables and assign them three random numbers.
 Pass those variables to each other through chaining operators so that it will return True
 
 Pass those variables to each other through chaining operators so that it will return False
 
 For example: x < y < z == True || x < z < y == False
 ```
+
 
 #### Part 4 - Control Flow
 
@@ -102,12 +101,12 @@ For example: x < y < z == True || x < z < y == False
 ```
 if expression == true:
 	run code
-	
+
 if name == "Jason":
 	print("That is an awesome name")
-else: 
+else:
 	print("You should get a different name")
-	
+
 if number > 100:
 	print("That's a big number")
 elif number > 50 && number < 100:
@@ -121,18 +120,10 @@ else:
 	* `if` to `elif` to `else`
 	* Tab to show what part of the function belongs where
 
-***Five Min Exercise***
-
-* Declare two variables: hero and color
-* Assign them whatever you want
-* Write a if else statement that will...
-	* print("Mashed Potatoes") if hero == color or False
-	* print("Tacos") if hero is not the same as color
-	* print("Oysters") otherwise
 
 #### Part 5 - Lists and Indexing
 
-* What if you wanted to store more data. 
+* What if you wanted to store more data.
 * Can be assigned to variables
 * Can hold different data types at once
 * The values are indexed for us starting at zero
@@ -144,7 +135,7 @@ my_list[0] == "Jason"
 
 my_list[2] == 2015
 ```
-* Just a heads up indexing through a list is similar to indexing with strings. 
+* Just a heads up indexing through a list is similar to indexing with strings.
 * the value at index zero will be the first element in the list, or the first letter in a string
 
 #### Part 6 - Functions and Statements
@@ -174,11 +165,6 @@ def add(x,y):
 * Putting it all together
 * Let's make a function that will take in a parameter
 
-```
-
-```
-* Implicit returns = None
-* 
 
 
 #### Part 7 - Methods for Help
@@ -187,3 +173,13 @@ def add(x,y):
 * `pop()`
 * `append()`
 * `split()`
+
+
+***Five Min Exercise***
+
+* Declare two variables: hero and color
+* Assign them whatever you want
+* Write a if else statement that will...
+	* print("Mashed Potatoes") if hero == color or False
+	* print("Tacos") if hero is not the same as color
+	* print("Oysters") otherwise
