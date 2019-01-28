@@ -5,9 +5,9 @@ def fibonacci(x):
     while i < x:
         y = a + b
         a , b = b, y
-        if y % 2 == 0:
-            print y
-            i += 1
+        # if y % 2 == 0:
+        print y
+        i += 1
 
 def main():
     if __name__ == "__main__":
